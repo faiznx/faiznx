@@ -52,7 +52,7 @@ I love turning ideas into real-world software and continuously improving my deve
 
 <div align="center">
 
-<img src="assets/contribution-graph.svg" width="100%" alt="Custom Contribution Activity Graph"/>
+<img src="assets/contribution-graph.png" width="100%" alt="Custom Contribution Activity Graph"/>
 
 <br/><br/>
 
