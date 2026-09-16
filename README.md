@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="assets/faizan.jpg" width="125" height="125" style="border-radius:50%;" />
+<img src="assets/faizan.jpg" width="125" height="125" />
 
 <br/><br/>
 
@@ -43,6 +43,24 @@ I love turning ideas into real-world software and continuously improving my deve
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,nodejs,git,github,vscode,react,mysql,linux,figma&perline=14" />
+
+</div>
+
+---
+
+## 📊 Contribution Activity
+
+<div align="center">
+
+<img src="assets/contribution-graph.svg" width="100%" alt="Custom Contribution Activity Graph"/>
+
+<br/><br/>
+
+<b>Custom Activity Visualization</b>
+
+<br/>
+
+<sub>This is a custom profile visualization and is not connected to GitHub's official contribution data.</sub>
 
 </div>
 
@@ -177,6 +195,9 @@ SEO, digital marketing and technology solutions for modern businesses.
 </table>
 
 </div>
+
+---
+
 ## 🌐 Let's Connect
 
 <div align="center">
