@@ -207,7 +207,7 @@ SEO, digital marketing and technology solutions for modern businesses.
 
 <td align="center" width="20%">
 
-<a href="https://github.com/fn-faizan-007">
+<a href="https://github.com/faiznx">
 
 <img src="https://img.icons8.com/?size=48&id=12599&format=png" alt="GitHub" width="42"/>
 
