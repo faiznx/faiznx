@@ -55,17 +55,6 @@ I love turning ideas into real-world software and continuously improving my deve
 <img src="assets/contribution-graph.png" width="100%" alt="Custom Contribution Activity Graph"/>
 
 <br/><br/>
-
-<b>Custom Activity Visualization</b>
-
-<br/>
-
-<sub>This is a custom profile visualization and is not connected to GitHub's official contribution data.</sub>
-
-</div>
-
----
-
 ## 🚀 Featured Work
 
 <div align="center">
