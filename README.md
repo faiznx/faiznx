@@ -54,7 +54,9 @@ I love turning ideas into real-world software and continuously improving my deve
 
 ---
 
-##  Featured Work
+---
+
+## Featured Work
 
 <div align="center">
 
@@ -69,11 +71,12 @@ I love turning ideas into real-world software and continuously improving my deve
 
 </a>
 
-<br/><br/>
+<br/>
 
 <h3>WSU Consultant</h3>
 
-Education & Study Abroad Consultancy Website.
+Education & Study Abroad<br/>
+Consultancy Website.
 
 <br/><br/>
 
@@ -93,11 +96,12 @@ Education & Study Abroad Consultancy Website.
 
 </a>
 
-<br/><br/>
+<br/>
 
 <h3>Best Sourcing</h3>
 
-Premium garments sourcing website with a modern UI.
+Premium garments sourcing<br/>
+website with a modern UI.
 
 <br/><br/>
 
@@ -117,11 +121,12 @@ Premium garments sourcing website with a modern UI.
 
 </a>
 
-<br/><br/>
+<br/>
 
 <h3>Web Rise Media</h3>
 
-Digital services agency for web development, SEO & digital marketing.
+Digital services agency for<br/>
+web development, SEO & marketing.
 
 <br/><br/>
 
@@ -137,9 +142,6 @@ Digital services agency for web development, SEO & digital marketing.
 </table>
 
 </div>
-
----
-
 ## Let's Connect
 
 <div align="center">
