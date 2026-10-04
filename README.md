@@ -149,55 +149,6 @@ Freelancing agency providing web development, SEO, digital marketing, AI ads and
 </table>
 
 </div>
-
----
-
-## 🛠️ What I Do
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="25%" align="center">
-
-### 🌐 Web Development
-
-Modern, responsive and professional websites built with modern web technologies.
-
-</td>
-
-<td width="25%" align="center">
-
-### 💻 Software Development
-
-Building practical software solutions with clean and maintainable code.
-
-</td>
-
-<td width="25%" align="center">
-
-### 🤖 AI & Automation
-
-Exploring AI-powered applications, automation and intelligent software solutions.
-
-</td>
-
-<td width="25%" align="center">
-
-### 📈 Digital Solutions
-
-SEO, digital marketing and technology solutions for modern businesses.
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
 ## 🌐 Let's Connect
 
 <div align="center">
