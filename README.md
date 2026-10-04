@@ -126,7 +126,7 @@ website with a modern UI.
 <h3>Web Rise Media</h3>
 
 Digital services agency for<br/>
-web development, SEO & marketing.
+web development and SEO.
 
 <br/><br/>
 
