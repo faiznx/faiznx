@@ -54,7 +54,7 @@ I love turning ideas into real-world software and continuously improving my deve
 
 ---
 
-## 🚀 Featured Work
+##  Featured Work
 
 <div align="center">
 
