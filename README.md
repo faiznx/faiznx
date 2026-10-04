@@ -12,25 +12,25 @@
 
 <div align="center">
 
-## 👨‍💻 WHO AM I?
+##  WHO AM I?
 
-### Hi, I'm Muhammad Faizan 👋
+### Hi, I'm Muhammad Faizan 
 
 **Data Science Student • Web Developer • Software Developer**
 
 I love turning ideas into real-world software and continuously improving my development skills.
 
-🎓 **BS Mathematics with Data Science** — COMSATS University Islamabad, Lahore Campus
+ **BS Mathematics with Data Science** — COMSATS University Islamabad, Lahore Campus
 
-💻 Focused on **Web Development, Software Development, Java, Python & JavaScript**
+ Focused on **Web Development, Software Development, Java, Python & JavaScript**
 
-🚀 Exploring **AI, Automation & Modern Software Development**
+ Exploring **AI, Automation & Modern Software Development**
 
 </div>
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -44,7 +44,7 @@ I love turning ideas into real-world software and continuously improving my deve
 
 ---
 
-## 📊 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
@@ -140,7 +140,7 @@ Digital services agency for web development, SEO & digital marketing.
 
 ---
 
-## 🌐 Let's Connect
+## Let's Connect
 
 <div align="center">
 
