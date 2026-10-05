@@ -53,9 +53,6 @@ I love turning ideas into real-world software and continuously improving my deve
 </div>
 
 ---
-
----
-
 ## Featured Work
 
 <div align="center">
@@ -142,6 +139,7 @@ web development and SEO.
 </table>
 
 </div>
+
 ## Let's Connect
 
 <div align="center">
