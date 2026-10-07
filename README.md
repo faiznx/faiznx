@@ -1,201 +1,84 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=MUHAMMAD%20FAIZAN&fontSize=44&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&color=0:07111F,50:0B1F33,100:123B5D" width="100%"/>
+# 🚀 NOVA WORKS
 
-<br/>
+### 🌐 Live Website
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Data+Science+Student+%7C+Developer;Web+Developer+%7C+Software+Developer;Java+%7C+Python+%7C+JavaScript+%7C+TypeScript;Building+Ideas+Into+Real+Software;Always+Learning.+Always+Building." />
+<a href="https://nova-company-management-system--adyanibrahim.replit.app/">
+<strong>👉 Open Nova Works</strong>
+</a>
+
+<br><br>
+
+<a href="https://nova-company-management-system--adyanibrahim.replit.app/">
+<img src="https://img.shields.io/badge/Live%20Website-Nova%20Works-123B5D?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<img src="https://img.shields.io/badge/Team-4%20Members-07111F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 
 </div>
 
 ---
 
+## 🌌 About
+
+**Nova Works** is a modern **company and project management system** designed to organize company operations, projects, workflows, and important business information in one centralized platform.
+
+It provides a clean and structured environment for better **management, organization, and productivity**.
+
+---
+
+## ✨ Key Features
+
+* 📊 Company & project management
+* 📁 Organized project information
+* 📝 Transcript and record management
+* 👥 Team management
+* 🎯 Workflow control
+* ⚡ Clean and responsive interface
+* ✨ Modern hover effects & animations
+
+---
+
+## 💻 Technology
+
 <div align="center">
 
-##  WHO AM I?
+**HTML5** • **CSS3** • **JavaScript**
 
-### Hi, I'm Muhammad Faizan 
+<br>
 
-**Data Science Student • Web Developer • Software Developer**
-
-I love turning ideas into real-world software and continuously improving my development skills.
-
- **BS Mathematics with Data Science** — COMSATS University Islamabad, Lahore Campus
-
- Focused on **Web Development, Software Development, Java, Python & JavaScript**
-
- Exploring **AI, Automation & Modern Software Development**
+Responsive Design • Animations • Hover Effects • Interactive UI
 
 </div>
 
 ---
 
-## Tech Stack
+## 👥 Team
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,nodejs&perline=7" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,react,mysql,linux,figma&perline=7" />
-
-</div>
+**Nova Works is developed by a team of 4 members**, working together on development, design, management, and project operations.
 
 ---
 
-##  Contribution Activity
+## 🎯 Goal
 
-<div align="center">
+> **Organize. Manage. Control. Build Better.**
 
-<img src="assets/contribution-graph.png" width="90%" alt="Custom Contribution Activity Graph"/>
-
-</div>
+Nova Works aims to make company and project management **simple, organized, and efficient**.
 
 ---
-## Featured Work
 
 <div align="center">
 
-<table width="90%">
-<tr>
+### 🚀 Visit Nova Works
 
-<td width="33%" align="center" valign="top">
-
-<a href="https://wsuconsultant.com/">
-
-<img src="assets/wsu-consultant.png" width="220" height="140" alt="WSU Consultant"/>
-
+<a href="https://nova-company-management-system--adyanibrahim.replit.app/">
+<strong>https://nova-company-management-system--adyanibrahim.replit.app/</strong>
 </a>
 
-<br/>
+<br><br>
 
-<h3>WSU Consultant</h3>
-
-Education & Study Abroad<br/>
-Consultancy Website.
-
-<br/><br/>
-
-<a href="https://wsuconsultant.com/">
-
-<img src="https://img.shields.io/badge/VISIT%20NOW-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-
-</a>
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-<a href="https://www.bestsourcing.site/">
-
-<img src="assets/best-sourcing.png" width="220" height="140" alt="Best Sourcing"/>
-
-</a>
-
-<br/>
-
-<h3>Best Sourcing</h3>
-
-Premium garments sourcing<br/>
-website with a modern UI.
-
-<br/><br/>
-
-<a href="https://www.bestsourcing.site/">
-
-<img src="https://img.shields.io/badge/VISIT%20NOW-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-
-</a>
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-<a href="https://www.webrisemediapk.site/">
-
-<img src="assets/webrisemedia.png" width="220" height="140" alt="Web Rise Media"/>
-
-</a>
-
-<br/>
-
-<h3>Web Rise Media</h3>
-
-Digital services agency for<br/>
-web development and SEO.
-
-<br/><br/>
-
-<a href="https://www.webrisemediapk.site/">
-
-<img src="https://img.shields.io/badge/VISIT%20NOW-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-
-</a>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-## Let's Connect
-
-<div align="center">
-
-<table width="85%">
-<tr>
-
-<td align="center" width="20%">
-<a href="https://github.com/faiznx">
-<img src="https://img.icons8.com/?size=48&id=12599&format=png" width="38" height="38" alt="GitHub"/>
-</a>
-<br/>
-<b>GitHub</b>
-</td>
-
-<td align="center" width="20%">
-<a href="https://www.instagram.com/fn_faizan_007">
-<img src="https://img.icons8.com/?size=48&id=32323&format=png" width="38" height="38" alt="Instagram"/>
-</a>
-<br/>
-<b>Instagram</b>
-</td>
-
-<td align="center" width="20%">
-<a href="https://wa.me/923074707266">
-<img src="https://img.icons8.com/?size=48&id=16713&format=png" width="38" height="38" alt="WhatsApp"/>
-</a>
-<br/>
-<b>WhatsApp</b>
-</td>
-
-<td align="center" width="20%">
-<a href="https://www.youtube.com/@webrisemediapk">
-<img src="https://img.icons8.com/?size=48&id=19318&format=png" width="38" height="38" alt="YouTube"/>
-</a>
-<br/>
-<b>YouTube</b>
-</td>
-
-<td align="center" width="20%">
-<a href="https://www.facebook.com/profile.php?id=61554152920704">
-<img src="https://img.icons8.com/?size=48&id=118497&format=png" width="38" height="38" alt="Facebook"/>
-</a>
-<br/>
-<b>Facebook</b>
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&lines=Always+Learning.+Always+Building.;Turning+Ideas+Into+Real+Software.;Building+The+Future+One+Project+At+A+Time." />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:07111F,50:0B1F33,100:123B5D" width="100%"/>
+<sub>© 2026 Nova Works — Built with teamwork and innovation.</sub>
 
 </div>
